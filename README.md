@@ -2,7 +2,7 @@
 
 
 
-<h1>Hi, I'm Scott!👋 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1> 
+<h1>Hi, I'm Scott! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1> 
  
  <p>I'm a Software developer. A student by day... and a student by night too. Currently living in the middle of nowhere in Nigeria. i am  always looking for fresh, useful and innovative app. Because of my special love for mobile OS, i wants to start a tech firm startup in future. I am  also a tech enthusiast with a deep interest in Open Source software and Operating Systems. </p>
 
