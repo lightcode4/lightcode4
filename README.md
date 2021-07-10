@@ -4,7 +4,8 @@
 
 <h1>Hi, I'm Scott! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1> 
  
- <p>I'm a Software developer. A student by day... and a student by night too. Currently living in the middle of nowhere in Nigeria. i am  always looking for fresh, useful and innovative app. Because of my special love for mobile OS, i wants to start a tech firm startup in future. I am  also a tech enthusiast with a deep interest in Open Source software and Operating Systems. </p>
+ <img src="https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif" alt="Hey there, I'm a Software developer. A student by day... and a student by night too. Currently living in the middle of nowhere in Nigeria. i am  always looking for fresh, useful and innovative app. Because of my special love for mobile OS, i wants to start a tech firm startup in future. I am  also a tech enthusiast with a deep interest in Open Source software and Operating Systems" style="max-width:100%;">
+
 
 <ul>
   <li>🔭 I’m currently working on ... Improving all my tech/ programming Skills!  </li>
