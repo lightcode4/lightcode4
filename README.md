@@ -29,9 +29,9 @@
     <li>I enjoy playing video games. Recently, I've been playing a lot of Fortnite, League of Legends, Star Wars Jedi: Fallen Order, and Teamfight Tactics, Call Of Duty Mobile, Call Off Duty.</li>
 </ul>
   <h4>📫 Reach out to me via </h4>
-  <ul class="social-icons">
-                    <li><a class="github" href="https://github.com/lightcode4/blaq-attitude"><i class="fab fa-github"></i></a></li>
-                    <li><a class="twitter" href="https://twitter.com/lightcode4"><i class="fab fa-twitter"></i></a></li>
-                    <li><a class="linkedin" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                  </ul>                                                       Very ambitious but quietly so.
+  
+                   <a class="github" href="https://github.com/lightcode4/blaq-attitude"><i class="fab fa-github"></i></a></li>
+                     <a class="twitter" href="https://twitter.com/lightcode4"><i class="fab fa-twitter"></i></a></li>
+                    <a class="linkedin" href=""><i class="fab fa-linkedin-in"></i></a></li>
+                                                                       Very ambitious but quietly so.
 
