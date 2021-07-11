@@ -13,7 +13,7 @@
    <li> ⚡ Fun fact: ...   I'm scared of failing & can't  Cook
     ! </li>
 
-<h5 Previously... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">  </h5>
+<h5> Previously... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">  </h5>
 <ul>
   <li> was  a mobile software Engr at Cell Phone City </li>
   <li> Built my first responsive  <a href="https://gidifix.blogspot.com/ rel="nofollow">blogspot</a>  in 2015   </li>
