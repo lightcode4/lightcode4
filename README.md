@@ -18,7 +18,7 @@
   <li> was  a mobile software Engr at Cell Phone City </li>
   <li> Built my first responsive  <a href="https://gidifix.blogspot.com/ rel="nofollow">blogspot</a>  in 2015   </li>
 </ul>
-  <h3> In my free time</h3>
+  <h3> In my free time  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h3>
 <ul>
     <li> I am reading</li>
     <li>I am watching movies ( Cartoon, Anime, talk shows) </li>
@@ -27,7 +27,7 @@
     <li> I am Fixing mobile phones Software Related Problems </li>
     <li>I enjoy playing video games. Recently, I've been playing a lot of Fortnite, League of Legends, Star Wars Jedi: Fallen Order, and Teamfight Tactics, Call Of Duty Mobile, Call Off Duty.</li>
 </ul>
-  <h4>📫 Reach out to me via </h4>
+  <h4>📫 Reach out to me via <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">  </h4>
    <ul>
   <li> <a href="https://https://www.linkedin.com/in/scott-omoviro-687a1773/ rel=" rel="nofollow">LinkedIn</a>
    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width:100%;"> </li>
