@@ -2,10 +2,6 @@
 <img src="https://github.com/lightcode4/lightcode4-bio/blob/main/bio.gif" alt="!!!" style="max-width:100%;">
 </header>
 <h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1>
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1>
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1>
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1>
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"> </h1>
  
  <p>I'm a Software developer. A student by day... and a student by night too. Currently living in the middle of nowhere in Nigeria. i am  always looking for fresh, useful and innovative app. Because of my special love for mobile OS, i wants to start a tech firm startup in future. I am  also a tech enthusiast with a deep interest in Open Source software and Operating Systems"</p>
 
@@ -17,7 +13,7 @@
    <li> ⚡ Fun fact: ...   I'm scared of failing & can't  Cook
     ! </li>
 
-<h5 Previously... </h5>
+<h5 Previously... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">  </h5>
 <ul>
   <li> was  a mobile software Engr at Cell Phone City </li>
   <li> Built my first responsive  <a href="https://gidifix.blogspot.com/ rel="nofollow">blogspot</a>  in 2015   </li>
