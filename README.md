@@ -29,12 +29,11 @@
     <li>I enjoy playing video games. Recently, I've been playing a lot of Fortnite, League of Legends, Star Wars Jedi: Fallen Order, and Teamfight Tactics, Call Of Duty Mobile, Call Off Duty.</li>
 </ul>
   <h4>📫 Reach out to me via </h4>
- <a href="https://https://www.linkedin.com/in/scott-omoviro-687a1773/ rel="nofollow">LinkedIn</a>
-   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width:100%;">
+ <a class="linkedin" href=""><i class="fab fa-linkedin-in"></i></a>
    |
- <a href="https://twitter.com/lightcode4 rel="nofollow">Twitter</a>
-   <img src="https://camo.githubusercontent.com/f649fe6a8f323f310d270b1f081e988cb21f240c4627baf7f92639f3931e31d5/687474703a2f2f692e696d6775722e636f6d2f77577a583975422e706e67" alt="Twitter" title="twitter icon without padding" data-canonical-src="http://i.imgur.com/wWzX9uB.png" style="max-width:100%;">                                                     
+  
+  <a class="twitter" href="https://twitter.com/lightcode4"><i class="fab fa-twitter"></i></a>                                                     
    |
- 
+ <a class="github" href="https://github.com/lightcode4/ "><i class="fab fa-github"></i></a>
                                                         Very ambitious but quietly so.
 
